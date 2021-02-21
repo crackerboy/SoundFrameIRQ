@@ -5,3 +5,5 @@ The big change I made in the next version was to switch to I2S because IRQ uses 
 I'll try to respond to issues as time permits!
 
 - Dave
+
+Reference URL: https://www.reddit.com/r/esp32/comments/lo86zw/source_code_to_my_esp32_spectrum_analyzer_now_up/
